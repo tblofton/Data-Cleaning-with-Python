@@ -10,7 +10,7 @@ NFL Combined Results- The data set describes scouting statistics for players fro
 
 
 ### Tools
-  -Jupyter Notebook -Data Cleaning with Python
+  -Jupyter Notebook -Data Cleaning with Python <br/>
   -SQL Server Management Studio - Table creation and simple queries
 
 ### Data Cleaning and Preparations
