@@ -4,13 +4,14 @@
 The objective of the project is to interact with various file types (CSV, HTML, APIs, etc.), perform cleaning techniques, and then bring the data together and store it in a database. The project is broken down into five project milestones.
 
 #### Data Sources
-Professional Football Hall of Fame- The primary data set used for this analysis is the "superbowl.csv" file containing detailed information about Hall of Famers that went to the Super Bowl. 
+Professional Football Hall of Fame- The primary data set used for this analysis is the "HeismanHOF.csv" file containing information about Hall of Famers. 
 Fantasy Football Data Pros
 NFL Combined Results- The data set describes scouting statistics for players from 1987-2023
 
 
 ### Tools
   -Jupyter Notebook -Data Cleaning with Python
+  -SQL Server Management Studio - Table creation and simple queries
 
 ### Data Cleaning and Preparations
 In the initial data preparation phase, the following tasks were performed:
